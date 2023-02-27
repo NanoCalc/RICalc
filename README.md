@@ -1,18 +1,21 @@
-**Refractive Index Calculator (`RI-Calc`)** is an user-friendly GUI software that apply the Kramers-Kronig (K-K) relations to calculate the refractive index of mixed organic compounds, perovskites, and polymers. Our pragram can be used when ellipsometric measurements are unavailable, which is the case
+
+
+**Refractive Index Calculator (`RI-Calc`)** is an user-friendly GUI software that applies the Kramers-Kronig (K-K) relations to calculate the refractive index of mixed organic compounds, perovskites, and polymers. The pragram can be used when ellipsometric measurements are unavailable, which is the case
 in many laboratories. 
 
-The complex index of refraction (or optical constants, ñ) is an important property of materials that determines their interaction with light. ñ is formed by a real (η) and an imaginary (κ) parts that are both functions of the wavelength (λ) so that ñ = η + iκ. Firstly, the κ can be calculated from the absorption coefficient, α, in the base-e (Napierian). Posteriorly, the K-K relation enables then an affordable way to find η from κ. Therefore, η and κ can be obtained from the material's absorption coefficient.
+The complex index of refraction (or optical constant, $\\overline{\eta}$ )  is an important property of materials that determines their interaction with light. $\\overline{\eta}$ is formed by a real ($\\eta$) and an imaginary ($\\kappa$) parts that are both functions of the wavelength ($\\lambda$) so that
+$\\overline{\eta} = \eta + i\kappa$.<br>
+Firstly, the $\\kappa$ can be calculated from the absorption coefficient, $\\alpha$, in base $e$ (Napierian). Posteriorly, the K-K relation enables then an affordable way to find $\\eta$ from $\\kappa$. Therefore, $\\eta$ and $\\kappa$ can be obtained from the material's absorption coefficient.
 
-**Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units cm⁻¹). The relationship between the base-e (Napierian) absorption coefficient, α, and the base-10 (decadic) absorption coefficient, a, is given by: α = a ln(10). The absorption coefficient in the base-e will be used as an input parameter in our software because it is more frequently used in the literature.
+**Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
+$\\alpha = a \times ln(10)$. The absorption coefficient in the base $e$ will be used as an input parameter in our software because it is more frequently used in the literature.
 
-The software binaries can be downloaded for [*Unix*](link), [*Windows*](link) and [*macOS*](link) operating systems.<br> 
+The software binaries will (**soon**) be available for Unix-like (Linux), Microsoft Windows and Apple MacOS operating systems.<br> 
 
 Program interface:
 <p align="center">  
   <img width="450em" src="https://user-images.githubusercontent.com/102557510/221597705-dc2799b4-8748-4234-9564-e0c5130c4f2c.png" />
 </p>
-
-`RI-Calc` can also be used online on [our website](https://nanocalc.org/fret).
 
 You can refer to the use of this software by linking [this repo](https://github.com/NanoCalc/FRETCalc) or [our website](https://nanocalc.org)
 in your article.
