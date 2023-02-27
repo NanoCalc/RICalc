@@ -1,4 +1,4 @@
-**Refractive Index Calculator (`RICalc`)** is an user-friendly GUI software that apply the Kramers-Kronig (K-K) relations to calculate the refractive index of mixed organic compounds, perovskites, and polymers. Our pragram can be used when ellipsometric measurements are unavailable, which is the case
+**Refractive Index Calculator (`RI-Calc`)** is an user-friendly GUI software that apply the Kramers-Kronig (K-K) relations to calculate the refractive index of mixed organic compounds, perovskites, and polymers. Our pragram can be used when ellipsometric measurements are unavailable, which is the case
 in many laboratories. 
 
 The complex index of refraction (or optical constants, ñ) is an important property of materials that determines their interaction with light. ñ is formed by a real (η) and an imaginary (κ) parts that are both functions of the wavelength (λ) so that ñ = η + iκ. Firstly, the κ can be calculated from the absorption coefficient, α, in the base-e (Napierian). Posteriorly, the K-K relation enables then an affordable way to find η from κ. Therefore, η and κ can be obtained from the material's absorption coefficient.
@@ -12,7 +12,7 @@ Program interface:
   <img width="450em" src="https://user-images.githubusercontent.com/102557510/221597705-dc2799b4-8748-4234-9564-e0c5130c4f2c.png" />
 </p>
 
-`RICalc` can also be used online on [our website](https://nanocalc.org/fret).
+`RI-Calc` can also be used online on [our website](https://nanocalc.org/fret).
 
 You can refer to the use of this software by linking [this repo](https://github.com/NanoCalc/FRETCalc) or [our website](https://nanocalc.org)
 in your article.
