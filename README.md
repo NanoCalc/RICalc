@@ -5,7 +5,17 @@ in many laboratories.
 
 The complex index of refraction (or optical constant, $\\tilde{\eta}$ )  is an important property of materials that determines their interaction with light. $\\tilde{\eta}$ is formed by a real ($\\eta$) and an imaginary ($\\kappa$) parts that are both functions of the wavelength ($\\lambda$) so that
 $\\tilde{\eta} = \eta + i\kappa$.<br>
-Firstly, the $\\kappa$ can be calculated from the absorption coefficient, $\\alpha$, in base $e$ (Napierian). Posteriorly, the K-K relation enables then an affordable way to find $\\eta$ from $\\kappa$. Therefore, $\\eta$ and $\\kappa$ can be obtained from the material's absorption coefficient.
+Firstly, the $\\kappa$ can be calculated from the absorption coefficient, $\\alpha$, in base $e$ (Napierian):
+
+Eq(1)
+
+Posteriorly, the K-K relation enables then an affordable way to find $\\eta$ from $\\kappa$:
+
+Eq(2)
+
+where PV denotes the Cauchy principal value.
+
+Therefore, $\\eta$ and $\\kappa$ can be obtained from the material's absorption coefficient.
 
 **Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
 $\\alpha = a \times ln(10)$. The absorption coefficient in the base $e$ will be used as an input parameter in our software because it is more frequently used in the literature.
