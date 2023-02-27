@@ -3,8 +3,8 @@
 **Refractive Index Calculator (`RI-Calc`)** is an user-friendly GUI software that applies the Kramers-Kronig (K-K) relations to calculate the refractive index of mixed organic compounds, perovskites, and polymers. The pragram can be used when ellipsometric measurements are unavailable, which is the case
 in many laboratories. 
 
-The complex index of refraction (or optical constant, $\\overline{\eta}$ )  is an important property of materials that determines their interaction with light. $\\overline{\eta}$ is formed by a real ($\\eta$) and an imaginary ($\\kappa$) parts that are both functions of the wavelength ($\\lambda$) so that
-$\\overline{\eta} = \eta + i\kappa$.<br>
+The complex index of refraction (or optical constant, $\\tilde{\eta}$ )  is an important property of materials that determines their interaction with light. $\\tilde{\eta}$ is formed by a real ($\\eta$) and an imaginary ($\\kappa$) parts that are both functions of the wavelength ($\\lambda$) so that
+$\\tilde{\eta} = \eta + i\kappa$.<br>
 Firstly, the $\\kappa$ can be calculated from the absorption coefficient, $\\alpha$, in base $e$ (Napierian). Posteriorly, the K-K relation enables then an affordable way to find $\\eta$ from $\\kappa$. Therefore, $\\eta$ and $\\kappa$ can be obtained from the material's absorption coefficient.
 
 **Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
