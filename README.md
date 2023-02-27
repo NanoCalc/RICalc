@@ -48,6 +48,6 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 
 # Cited by
 
-Papers that recently cited `FRETCalc` are shown below.
+Papers that recently cited `RICalc` are shown below.
 <!-- [![DOI:<your number>](http://img.shields.io/badge/DOI-<your number>-<colour hexcode>.svg)](<doi link>) -->
 <!-- exemplo [![DOI:10.1101/2021.01.08.425840](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://doi.org/10.1101/2021.01.08.425840) -->
