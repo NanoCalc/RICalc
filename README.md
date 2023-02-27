@@ -7,11 +7,11 @@ The complex index of refraction (or optical constant, $\\tilde{\eta}$ )  is an i
 $\\tilde{\eta} = \eta + i\kappa$.<br>
 Firstly, the $\\kappa$ can be calculated from the absorption coefficient, $\\alpha$, in base $e$ (Napierian):
 
-$$ \kappa(\lambda) = \frac{\lambda\alpha(\lambda)}{4\pi} $$  (1)
+$$ \kappa(\lambda) = \frac{\lambda\alpha(\lambda)}{4\pi} $$
 
 Posteriorly, the K-K relation enables then an affordable way to find $\\eta$ from $\\kappa$:
 
-$$ \eta(\lambda_i) = \frac{2}{\pi} PV \int_{0}^{\infty} \frac{\lambda\kappa(\lambda)d\lambda}{\lambda^{2} - \lambda_i^{2}}   $$  (2)
+$$ \eta(\lambda_i) = \frac{2}{\pi} PV \int_{0}^{\infty} \frac{\lambda\kappa(\lambda)d\lambda}{\lambda^{2} - \lambda_i^{2}}   $$
 
 where PV denotes the Cauchy principal value.
 
