@@ -4,7 +4,7 @@ The software binaries can be downloaded for [*Unix*](link), [*Windows*](link) an
 
 Program interface:
 <p align="center">  
-  <img width="450em" src="https://user-images.githubusercontent.com/102557510/221590031-7f358ddc-ece2-4f62-b933-6a3463867486.png" />
+  <img width="450em" src="https://user-images.githubusercontent.com/102557510/221597705-dc2799b4-8748-4234-9564-e0c5130c4f2c.png" />
 </p>
 
 `RICalc` can also be used online on [our website](https://nanocalc.org/fret).
