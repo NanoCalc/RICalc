@@ -2,7 +2,8 @@
 in many laboratories. 
 
 The complex index of refraction (or optical constants, ñ) is an important property of materials that determines their interaction with light. ñ is formed by a real (η) and an imaginary (κ) parts that are both functions of the wavelength (λ) so that ñ = η + iκ. From the absorption coefficient α in the base-e (Napierian), the κ can be calculated. The K-K relation enables then an affordable way to find η from κ. Therefore, η and κ can be obtained from the material's absorption coefficient.
-Observaton: In most works, the absorption coefficient spectrum presented by the researchers is decadic (units cm⁻¹). The relationship between the base-e (Napierian) absorption coefficient α and the base-10 (decadic) absorption coefficient, a, is given by: α = a ln(10). Due to the fact that the absorption coefficient in the base-e is more common, it will be used as an input parameter in our program.
+
+**Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units cm⁻¹). The relationship between the base-e (Napierian) absorption coefficient α and the base-10 (decadic) absorption coefficient, a, is given by: α = a ln(10). Due to the fact that the absorption coefficient in the base-e is more common, it will be used as an input parameter in our program.
 
 The software binaries can be downloaded for [*Unix*](link), [*Windows*](link) and [*macOS*](link) operating systems.<br> 
 
