@@ -1,6 +1,6 @@
 
 
-**Refractive Index Calculator (`RI-Calc`)** is an user-friendly GUI software that applies the Kramers-Kronig (K-K) relations to calculate the refractive index of mixed organic compounds, perovskites, and polymers. The pragram can be used when ellipsometric measurements are unavailable, which is the case
+**Refractive Index Calculator (`RI-Calc`)** is an user-friendly GUI software that applies the Kramers-Kronig (K-K) relations to calculate the refractive index of mixed organic compounds, perovskites, and polymers. The program can be used when ellipsometric measurements are unavailable, which is the case
 in many laboratories. 
 
 The complex index of refraction (or optical constant, $\\tilde{\eta}$ )  is an important property of materials that determines their interaction with light. $\\tilde{\eta}$ is formed by a real ($\\eta$) and an imaginary ($\\kappa$) parts that are both functions of the wavelength ($\\lambda$) so that
