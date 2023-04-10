@@ -51,7 +51,8 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data Sample
-
+* [The `Data Sample` folder]() contains an example of the data set needed to run `RICalc`.<br> 
+You can download it [here]()
 
 # Spectral Data
 
