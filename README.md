@@ -17,6 +17,20 @@ where PV denotes the Cauchy principal value.
 
 Therefore, $\\eta$ and $\\kappa$ can be obtained from the material's absorption coefficient.
 
+Note that the complex relative permittivity of the medium is given by: 
+
+$$ \varepsilon_{r} = \varepsilon_{r}' - i\varepsilon_{r}'' $$
+
+where
+
+$$ \varepsilon_{r}' = \eta^{2} - \kappa^{2} $$
+
+and
+
+$$ \varepsilon_{r}'' = 2\eta\kappa $$
+
+In longer wavelengths $\\kappa$ is negligible and $\\eta=\sqrt{\varepsilon_{r}}$ is obtained. In this specific circumstance (zero-frequency relative permittivity) $\\varepsilon_{r}$ is named the relative dielectric constant of the medium.
+
 **Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
 $\\alpha = a \times ln(10)$. The absorption coefficient in the base $e$ will be used as an input parameter in our software because it is more frequently used in the literature.
 
