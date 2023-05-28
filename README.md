@@ -29,7 +29,7 @@ and
 
 $$ \varepsilon_{r}'' = 2\eta\kappa $$
 
-In longer wavelengths $\\kappa$ is negligible and $\\eta=\sqrt{\varepsilon_{r}}$ is obtained. In this specific circumstance (zero-frequency relative permittivity) $\\varepsilon_{r}$ is named the relative dielectric constant of the medium.
+In longer wavelengths $\\kappa$ is negligible and $\\eta=\sqrt{\varepsilon_{r}}$ is obtained. In this specific circumstance (zero-frequency relative permittivity) $\\varepsilon_{r}$ is named the relative dielectric constant of the medium. In our software the calculated $\\eta(\lambda)$ spectrum is shifted using this approximation for longer wavelengths. This approximation is necessary because to obtain $\\eta(\lambda)$ with reasonable precision it is important to know the value of $\\kappa(\lambda)$ for the largest range of wavelengths possible. Due to experimental limitations, however,  $\\kappa(\lambda)$ will be known just for a limited interval of the spectrum. Hence $\\kappa(\lambda)$ will be unknown for a relevant part of the integral range.
 
 **Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
 $\\alpha = a \times ln(10)$. The absorption coefficient in the base $e$ will be used as an input parameter in our software because it is more frequently used in the literature.
