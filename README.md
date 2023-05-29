@@ -69,7 +69,7 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
 # Data Sample
-* [The `Data Sample` folder](https://github.com/NanoCalc/RICalc/tree/main/Data%20Sample) contains an example of the data set needed to run `RICalc`.<br> 
+* The [`Data Sample`](https://github.com/NanoCalc/RICalc/tree/main/Data%20Sample) folder contains an example of the data set needed to run `RICalc`.<br> 
 You can download it [here](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/data-sample.zip)
 
 # Spectral Data
