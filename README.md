@@ -73,9 +73,9 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 You can download it [here](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/data-sample.zip)
 
 # Spectral Data
-In the spectral-data folder, you will find additional data that can be used to obtain the refractive index of different materials.
+In the [`spectral-data` folder](https://github.com/NanoCalc/RICalc/tree/main/spectral-data), you will find additional data that can be used to obtain the refractive index of different materials.
 
-You can also directly download them here.
+You can also directly download them [here](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/Spectral.Data.tar.gz).
 
 
 # Acknowledgments
