@@ -34,7 +34,7 @@ In longer wavelengths $\\kappa$ is negligible and $\\eta=\sqrt{\varepsilon_{r}}$
 **Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
 $\\alpha = a \times ln(10)$. The absorption coefficient in the base $\ 10$ will be used as an input parameter in our software because it is more frequently used in the literature.
 
-The software binaries can be downloaded for [*Unix-like systems (Linux)*](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/RICalc-Unix.tar.gz), [*Windows*](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/RICalc-Windows.tar.gz) and [*macOS*](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/RICalc-MacOS.tar.gz) operating systems.<br> 
+The software binaries can be downloaded for [*Unix-like systems (Linux)*](https://github.com/NanoCalc/RICalc/releases/download/2.0-beta/RICalc-Unix.zip), [*Windows*](https://github.com/NanoCalc/RICalc/releases/download/2.0-beta/RICalc-Windows.zip) and [*macOS*](https://github.com/NanoCalc/RICalc/releases/download/2.0-beta/RICalc-MacOS.zip) operating systems.<br> 
 
 Program interface:
 <p align="center">  
