@@ -41,7 +41,7 @@ Program interface:
   <img width="500em" src="https://user-images.githubusercontent.com/102557510/221597705-dc2799b4-8748-4234-9564-e0c5130c4f2c.png" />
 </p>
 
-`RI-Calc` can also be used online on [our website](https://nanocalc.org/ricalc).
+`RI-Calc` can also be used online on our website [nanocalc.org/ricalc](https://nanocalc.org/ricalc).
 
 Test the app using [sample data](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/data-sample.zip).
 
