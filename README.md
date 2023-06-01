@@ -45,9 +45,6 @@ Program interface:
 
 Test the app using [sample data](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/data-sample.zip).
 
-You can refer to the use of this software by linking [this repo](https://github.com/NanoCalc/FRETCalc) or [our website](https://nanocalc.org)
-in your article.
-
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
 
 # Authors
