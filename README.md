@@ -11,7 +11,7 @@ $$ \kappa(\lambda) = \frac{\lambda\alpha(\lambda)}{4\pi} $$
 
 Posteriorly, the K-K relation enables then an affordable way to find $\\eta$ from $\\kappa$:
 
-$$ \eta(\lambda_i) = \frac{2}{\pi} PV \int_{0}^{\infty} \frac{\lambda\kappa(\lambda)d\lambda}{\lambda^{2} - \lambda_i^{2}}   $$
+$$ \eta(\lambda_i) = \eta_{offset} + \frac{2}{\pi} PV \int_{\lambda_{L}}^{\lambda_{U}} \frac{\lambda\kappa(\lambda)d\lambda}{\lambda^{2} - \lambda_i^{2}}   $$
 
 where PV denotes the Cauchy principal value.
 
