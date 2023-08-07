@@ -11,11 +11,9 @@ $$ \kappa(\lambda) = \frac{\lambda\alpha(\lambda)}{4\pi} $$
 
 Posteriorly, the K-K relation enables then an affordable way to find $\\eta$ from $\\kappa$:
 
-$$ \eta(\lambda_i) = \eta_{offset} + \frac{2}{\pi} PV \int_{\lambda_{L}}^{\lambda_{U}} \frac{\lambda\kappa(\lambda)d\lambda}{\lambda^{2} - \lambda_i^{2}}   $$
+$$ \eta(\lambda_i) = \eta_{offset} + \frac{2}{\pi} PV \int_{\lambda_{L}}^{\lambda_{U}} \frac{\lambda\kappa(\lambda)d\lambda}{\lambda^{2} - \lambda_i^{2}}, \lambda_{L} \leq \lambda_{i} \leq \lambda_{U} $$
 
-where PV denotes the Cauchy principal value.
-
-Therefore, $\\eta$ and $\\kappa$ can be obtained from the material's absorption coefficient.
+where PV denotes the Cauchy principal value, $\\lambda_{L}$ and $\\lambda_{U}$ are the lower and upper bounds. To minimize the errors in the calculation of $\\eta(\lambda)$, the constant boundary extension procedure can be applied, so that $\\alpha(\\lambda) = \\alpha(\\lambda_{L})$ for $\\lambda \\leq \\lambda_{L}$ and $\\alpha(\\lambda) = \\alpha(\\lambda_{U})$ for $\\lambda \\geq \\lambda_{U}$. Note that the index of refraction was shifted by a constant value, where $\\eta_{offset} \\geq 1$.  In relation to $\\eta_{offset}$,  it is typically found to closely resemble the refractive index at the point of minimum dispersion, or a point in close proximity within the transparency region between the infrared and UV/Vis spectral range. In the transparency region $\\kappa$ is negligible and $\\eta_{offset}=\\sqrt{\\varepsilon_{r}}$, where in this specific circumstance $\\varepsilon_{r}$ is often called relative dielectric constant of the medium.
 
 Note that the complex relative permittivity of the medium is given by: 
 
@@ -28,8 +26,6 @@ $$ \varepsilon_{r}' = \eta^{2} - \kappa^{2} $$
 and
 
 $$ \varepsilon_{r}'' = 2\eta\kappa $$
-
-In longer wavelengths $\\kappa$ is negligible and $\\eta=\sqrt{\varepsilon_{r}}$ is obtained. In this specific circumstance (zero-frequency relative permittivity) $\\varepsilon_{r}$ is named the relative dielectric constant of the medium. In our software the calculated $\\eta(\lambda)$ spectrum is shifted using this approximation for longer wavelengths. This approximation is necessary because to obtain $\\eta(\lambda)$ with reasonable precision it is important to know the value of $\\kappa(\lambda)$ for the largest range of wavelengths possible. Due to experimental limitations, however,  $\\kappa(\lambda)$ will be known just for a limited interval of the spectrum. Hence $\\kappa(\lambda)$ will be unknown for a relevant part of the integral range.
 
 **Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
 $\\alpha = a \times ln(10)$. The absorption coefficient in the base $\ 10$ will be used as an input parameter in our software because it is more frequently used in the literature.
