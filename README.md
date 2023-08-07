@@ -39,7 +39,7 @@ Program interface:
 
 `RI-Calc` can also be used online on our website [nanocalc.org/ricalc](https://nanocalc.org/ricalc).
 
-Test the app using [sample data](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/data-sample.zip).
+Test the app using [sample data](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/data_sample.zip).
 
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
 
@@ -63,12 +63,12 @@ Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/d
 
 # Data Sample
 * The [`Data Sample`](https://github.com/NanoCalc/RICalc/tree/main/Data%20Sample) folder contains an example of the data set needed to run `RICalc`.<br> 
-You can download it [here](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/data-sample.zip)
+You can download it [here](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/data_sample.zip)
 
 # Spectral Data
 In the [`Spectral Data`](https://github.com/NanoCalc/RICalc/tree/main/Spectral%20Data) folder, you will find additional data that can be used to obtain the refractive index of different materials.
 
-You can also directly download them [here](https://github.com/NanoCalc/RICalc/releases/download/1.0-beta/Spectral.Data.tar.gz).
+You can also directly download them [here](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/spectral.data.zip).
 
 
 # Acknowledgments
