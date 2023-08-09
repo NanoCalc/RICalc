@@ -34,7 +34,7 @@ $\\alpha = a \times ln(10)$. The absorption coefficient in the base $\ 10$ will 
 
 Program interface:
 <p align="center">  
-  <img width="500em" src="https://user-images.githubusercontent.com/102557510/221597705-dc2799b4-8748-4234-9564-e0c5130c4f2c.png" />
+  <img width="500em" src="https://github.com/NanoCalc/RICalc/assets/34662089/3c988d90-1980-49d0-8f20-cf689a9a7e15" />
 </p>
 
 `RI-Calc` can also be used online on our website [nanocalc.org/ricalc](https://nanocalc.org/ricalc).
