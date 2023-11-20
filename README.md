@@ -30,7 +30,7 @@ $$ \varepsilon_{r}'' = 2\eta\kappa $$
 **Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
 $\\alpha = a \times ln(10)$. The absorption coefficient in the base $\ 10$ will be used as an input parameter in our software because it is more frequently used in the literature.
 
-**The software binaries can be downloaded for the following operating systems:** [*Unix-like systems (Linux)*](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/RICalc_3_0_Unix.bin), [*Windows*](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/RICalc_3_0_Windows.exe) and [*macOS*](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/RICalc_3_0_MacOS.bin).<br> 
+**The software binaries can be downloaded for the following operating systems:** [*Unix-like systems (Linux)*](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/RICalc_3_0_Unix.zip), [*Windows*](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/RICalc_3_0_Windows.zip) and [*macOS*](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/RICalc_3_0_MacOS.zip).<br> 
 
 Program interface:
 <p align="center">  
@@ -68,7 +68,7 @@ You can download it [here](https://github.com/NanoCalc/RICalc/releases/download/
 # Spectral Data
 In the [`Spectral Data`](https://github.com/NanoCalc/RICalc/tree/main/Spectral%20Data) folder, you will find additional data that can be used to obtain the refractive index of different materials.
 
-You can also directly download them [here](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/spectral.data.zip).
+You can also directly download them [here](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/spectral-data.zip).
 
 
 # Acknowledgments
