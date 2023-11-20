@@ -41,7 +41,7 @@ Program interface:
 
 Test the app using [sample data](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/data_sample.zip).
 
-More spectral data for testing the app can be downloaded [sample data](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/spectral-data.zip).
+More spectral data for testing the app can be downloaded [here](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/spectral-data.zip).
 
 Find out more about our research groups: [*DiNE*](https://dineufpr.wixsite.com/dineufpr) and [*NAMOR*](http://sites.if.ufrj.br/namor/).
 
