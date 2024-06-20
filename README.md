@@ -1,18 +1,3 @@
-
-
-
-
-$$ \varepsilon_{r}'' = 2\eta\kappa $$
-
-
-
-
-**Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
-$\\alpha = a \times ln(10)$. The absorption coefficient in the base $\ 10$ will be used as an input parameter in our software because it is more frequently used in the literature.
-
-
-
-
 Detailed instructions for using RI-Calc can be consulted in our published article:
 
 
@@ -53,8 +38,8 @@ Program interface:
 
 Test the app using [sample data](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/data_sample.zip).
 
-
-
+**Observaton:** In most works, the absorption coefficient spectrum presented by the researchers is decadic (units: $\ cm^{-1}$). The relationship between the base $e$ (Napierian) absorption coefficient, $\\alpha$, and the base $\ 10$ (decadic) absorption coefficient, $a$, is given by: 
+$\\alpha = a \times ln(10)$. The absorption coefficient in the base $\ 10$ will be used as an input parameter in our software because it is more frequently used in the literature.
 
 More spectral data for testing the app can be downloaded [here](https://github.com/NanoCalc/RICalc/releases/download/3.0-beta/spectral-data.zip).
 
